@@ -1,5 +1,5 @@
 def looping
-	do
+	loop do
     "Wingardium Leviosa"
   end
 end
